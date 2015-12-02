@@ -1,0 +1,11 @@
+<snippet>
+    <tabTrigger>main</tabTrigger>
+    <scope>source.apl</scope>
+    <description>main()</description>
+
+    <content><![CDATA[main()
+{
+	${0:}
+	return 0;
+}]]></content>
+</snippet>

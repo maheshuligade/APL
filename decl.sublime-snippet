@@ -1,0 +1,13 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <tabTrigger>decl</tabTrigger>
+    <scope>source.apl</scope>
+    <description>Declaration</description>
+
+	<content><![CDATA[
+decl 
+
+
+enddecl
+]]></content>
+</snippet>

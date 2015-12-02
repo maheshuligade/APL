@@ -1,0 +1,10 @@
+<snippet>
+    <tabTrigger>integer</tabTrigger>
+    <scope>source.apl</scope>
+    <description>integer main()</description>
+
+	<content><![CDATA[integer ${1:main()}
+{
+	${0:return 0;}
+}]]></content>
+</snippet>
